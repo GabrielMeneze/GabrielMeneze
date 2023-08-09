@@ -1,15 +1,16 @@
 # Gabriel Oliveira
-### Desenvolvedor de Sistemas Especializado em React
+## Desenvolvedor React | 3+ Anos de Experiência
 
-3+ anos transformando ideias em soluções inovadoras. Apaixonado por tecnologia e comprometido com a excelência.
+📍 São Paulo, Brasil · ![Followers](https://img.shields.io/github/followers/GabrielMeneze?style=social)
 
-## 🌱 Projetos
-### Destaques:
-- **ReactShop**: [Código](#) | [Demo](#)
-- **MyPortfolio**: [Código](#) | [Demo](#)
-- **TaskManager**: [Código](#) | [Demo](#)
+Transformando ideias em soluções inovadoras e buscando excelência em cada projeto. Apaixonado por tecnologia.
 
-### Pessoais:
+## 🌱 Projetos Destaque
+- **ReactShop**: [🔗 Código](#) | [🚀 Demo](#)
+- **MyPortfolio**: [🔗 Código](#) | [🚀 Demo](#)
+- **TaskManager**: [🔗 Código](#) | [🚀 Demo](#)
+
+## 📚 Projetos Pessoais
 - **[ProjetoA](#)**: React & Node.js.
 - **[ProjetoB](#)**: Django & React.
 - **[ProjetoC](#)**: JavaScript puro.
@@ -24,10 +25,6 @@
 
 </div>
 
-## 💌 Contato
-- 📧 [Gmail](mailto:gabriel.menezesdev@gmail.com)
+## 📬 Contato
+- 📧 [Enviar Email](mailto:gabriel.menezesdev@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-menezes-26bb101b5/)
-
----
-
-📍 São Paulo, Brasil · ![Followers](https://img.shields.io/github/followers/GabrielMeneze?style=social)
