@@ -1,7 +1,7 @@
 # Gabriel Oliveira
 ## Desenvolvedor React | 3+ Anos de Experiência
 
-📍 São Paulo, Brasil · ![Followers](https://img.shields.io/github/followers/GabrielMeneze?style=social)
+📍 São Paulo, Brasil
 
 Transformando ideias em soluções inovadoras e buscando excelência em cada projeto. Apaixonado por tecnologia.
 
