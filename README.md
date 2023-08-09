@@ -6,14 +6,14 @@
 Transformando ideias em soluções inovadoras e buscando excelência em cada projeto. Apaixonado por tecnologia e sempre buscando aprimoramento constante.
 
 ## 🌱 Projetos Destaque
-- **SomosBrada**: Uma plataforma inovadora para conexão de profissionais da área tecnológica. [🚀 Demo](https://somosbrada.com.br/)
-- **Nodeha**: Uma solução E-commerce focada na melhor experiência do usuário. [🚀 Demo](https://nodeha.com.br/)
-- **MaracaTech**: Um portal de notícias e atualizações sobre o mundo tech. [🚀 Demo](https://maracatech.com)
+- **SomosBrada**: A maior e mais completa startup para buscar investimentos de incentivos. [🚀 Demo](https://somosbrada.com.br/)
+- **Nodeha**: Um e-commerce focado na venda de periféricos high-end. [🚀 Demo](https://nodeha.com.br/)
+- **MaracaTech**: Um sistema de gestão empresarial ainda em desenvolvimento. [🚀 Demo](https://maracatech.com)
 
 ## 📚 Projetos Pessoais
-- **[CodeleapV2](https://github.com/GabrielMeneze/CodeleapV2)**: Uma ferramenta para desenvolvedores testarem seus códigos em tempo real.
-- **[ShawProject](https://github.com/GabrielMeneze/shawproject)**: Uma rede social dedicada para amantes de música.
-- **[ReadFast](https://github.com/GabrielMeneze/ReadFast)**: Aplicativo para melhorar a velocidade de leitura através de técnicas avançadas.
+- **[CodeleapV2](https://github.com/GabrielMeneze/CodeleapV2)**: Uma plataforma basica que simula uma rede social, criada para que possam avaliar a estrutura do meu codigo.
+- **[ShawProject](https://github.com/GabrielMeneze/shawproject)**: Um projeto que se conecta com a api do github e trás todos os usuarios e seus respectivos repositórios disponiveis atualmente.
+- **[ReadFast](https://github.com/GabrielMeneze/ReadFast)**: Novo projeto que visa aumentar a velocidade de leitura em plataformas digitais.
 
 ## 🛠 Tecnologias
 <div align="center">
