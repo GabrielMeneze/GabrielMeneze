@@ -1,19 +1,32 @@
 # Gabriel Oliveira
 ## Desenvolvedor React | 3+ Anos de Experiência
 
-📍 São Paulo, Brasil · ![Followers](https://img.shields.io/github/followers/GabrielMeneze?style=social)
+📍 São Paulo, Brasil
 
 Transformando ideias em soluções inovadoras e buscando excelência em cada projeto. Apaixonado por tecnologia e sempre buscando aprimoramento constante.
 
 ## 🌱 Projetos Destaque
+ <!-- 2. Descrição dos Projetos -->
+
 - **SomosBrada**: A maior e mais completa startup para buscar investimentos de incentivos. [🚀 Demo](https://somosbrada.com.br/)
+  - **Tecnologias Usadas**: Angular, Typescript, Bootstrap
 - **Nodeha**: Um e-commerce focado na venda de periféricos high-end. [🚀 Demo](https://nodeha.com.br/)
+  - **Tecnologias Usadas**: React, GraphQL, Redux Toolkit
 - **MaracaTech**: Um sistema de gestão empresarial ainda em desenvolvimento. [🚀 Demo](https://maracatech.com)
+  - **Tecnologias Usadas**: React, TypeScript, Redux, Material UI
 
 ## 📚 Projetos Pessoais
-- **[CodeleapV2](https://github.com/GabrielMeneze/CodeleapV2)**: Uma plataforma basica que simula uma rede social, criada para que possam avaliar a estrutura do meu codigo.
-- **[ShawProject](https://github.com/GabrielMeneze/shawproject)**: Um projeto que se conecta com a api do github e trás todos os usuarios e seus respectivos repositórios disponiveis atualmente.
-- **[ReadFast](https://github.com/GabrielMeneze/ReadFast)**: Novo projeto que visa aumentar a velocidade de leitura em plataformas digitais.
+ <!-- 3. Repositórios Ativos -->
+
+- **[CodeleapV2](https://github.com/GabrielMeneze/CodeleapV2)**
+  - **Descrição**: Uma plataforma básica que simula uma rede social.
+  - **Tecnologias Usadas**: React, Redux e Typescript, Bootstrap
+- **[ShawProject](https://github.com/GabrielMeneze/shawproject)**
+  - **Descrição**: Conecta com a API do GitHub para buscar usuários e seus repositórios.
+  - **Tecnologias Usadas**: React, Bootstrap
+- **[ReadFast](https://github.com/GabrielMeneze/ReadFast)**
+  - **Descrição**: Projeto para aumentar a velocidade de leitura em plataformas digitais.
+  - **Tecnologias Usadas**: React, TypeScript, Bootstrap
 
 ## 🛠 Tecnologias
 <div align="center">
@@ -26,12 +39,11 @@ Transformando ideias em soluções inovadoras e buscando excelência em cada pro
 
 </div>
 
-## ✅ Validações e Certificações
-- **Certificação React Advanced**: Emitida pela [React Academy](#).
-- **Contribuição Open Source**: Reconhecimento pelo trabalho no projeto [OpenTech](#).
-- **Prêmio Inovação Tech 2022**: Pela criação e desenvolvimento do SomosBrada.
-
 ## 📬 Contato
 - 📧 [Enviar Email](mailto:gabriel.menezesdev@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-menezes-26bb101b5/)
+
+## 🌟 Habilidades Adicionais
+
+- **Definição de estrutura de dados**: Visão ampla sobre os projetos e definindo middlewares e logicas de componentização/fluxo de propriedades.
 
