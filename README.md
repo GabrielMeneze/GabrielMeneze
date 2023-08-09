@@ -1,20 +1,29 @@
-# Gabriel Oliveira 🚀
+# Olá, sou o Gabriel Oliveira 🚀
 
-> Desenvolvedor de Sistemas | Especialista em React | 3 anos de experiência
+Sou um desenvolvedor de sistemas com mais de 3 anos de experiência, especializando-me em React. Ao longo da minha jornada, trabalhei em diversos projetos, desde aplicações web a sistemas complexos. Aqui estão alguns dos meus trabalhos:
+
+## 🌟 Projetos Destacados
+
+- **ReactShop**: Uma loja virtual criada com React, Redux e styled-components. Veja [aqui](#link_do_projeto).
+- **MyPortfolio**: Minha página pessoal onde compartilho meu trabalho, meu blog e mais sobre mim. Confira [aqui](#link_do_portfolio).
+- **TaskManager**: Um aplicativo para gerenciamento de tarefas usando React e Node.js. Disponível [aqui](#link_do_taskmanager).
+
+## 🛠 Tecnologias e Ferramentas
 
 <div align="center">
 
-  ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMeneze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMeneze&layout=compact&langs_count=7&theme=tokyonight)
-
-  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg)
-  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg)
-  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-  ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-
-  [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.menezesdev@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-menezes-26bb101b5/)
+  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg =30x30)
+  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg =30x30)
+  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg =30x30)
+  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg =30x30)
+  ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg =30x30)
+  ![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg =30x30)
 
 </div>
+
+## 📬 Contato
+
+Sinta-se à vontade para entrar em contato comigo:
+
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriel.menezesdev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-menezes-26bb101b5/)
