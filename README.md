@@ -35,7 +35,11 @@ Transformando ideias em soluções inovadoras e buscando excelência em cada pro
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 </div>
 
