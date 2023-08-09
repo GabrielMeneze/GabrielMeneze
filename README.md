@@ -4,7 +4,7 @@
 3+ anos transformando ideias em soluções inovadoras. Apaixonado por tecnologia e comprometido com a excelência.
 
 ## 🏢 Experiência
-- **Sênior Frontend**, [Empresa](#link_empresa) - Desde 202X
+- **Junior Frontend**, [Empresa](#[link_empresa](https://ri.quality.com.br/a-companhia/linha-do-tempo-e-historico/)) - Desde 202X
 - **React Developer**, [Outra Empresa](#link_empresa) - 202X - 202X
 
 ## 🌱 Projetos
