@@ -12,6 +12,16 @@ Olá! Sou um desenvolvedor especializado em React com mais de 3 anos de experiê
 - **ReactShop**: Uma loja virtual ágil e responsiva. [Código](#) • [Demo](#)
 - **MyPortfolio**: Meu portal profissional. [Código](#) • [Demo](#)
 - **TaskManager**: Gestão eficiente de tarefas. [Código](#) • [Demo](#)
+- 
+## 🎨 Projetos Pessoais
+
+Minhas iniciativas individuais que refletem minha paixão pela tecnologia:
+
+🔗 **[ProjetoA](#)**: Uma solução inovadora usando React e Node.js.  
+🔗 **[ProjetoB](#)**: Plataforma com Django e React para facilitar Z.  
+🔗 **[ProjetoC](#)**: Utilitário em JavaScript para W.  
+
+_Feedbacks são sempre bem-vindos!_
 
 ## 🛠 Stack e Tecnologias
 
