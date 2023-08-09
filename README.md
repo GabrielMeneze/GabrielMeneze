@@ -1,5 +1,5 @@
 # Gabriel Oliveira
-## Desenvolvedor React | 3+ Anos de Experiência
+## Desenvolvedor React | 3 Anos de Experiência
 
 📍 São Paulo, Brasil
 
