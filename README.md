@@ -24,9 +24,9 @@ Transformando ideias em soluções inovadoras e buscando excelência em cada pro
 - **[ShawProject](https://github.com/GabrielMeneze/shawproject)**
   - **Descrição**: Conecta com a API do GitHub para buscar usuários e seus repositórios.
   - **Tecnologias Usadas**: React, Bootstrap
-- **[ReadFast](https://github.com/GabrielMeneze/ReadFast)**
-  - **Descrição**: Projeto para aumentar a velocidade de leitura em plataformas digitais.
-  - **Tecnologias Usadas**: React, TypeScript, Bootstrap
+- **[MobileReader](https://github.com/GabrielMeneze/MobileReader)**
+  - **Descrição**: Projeto mobile para simular a rede social TikTok.
+  - **Tecnologias Usadas**: React Native, TypeScript, react navigation 
 
 ## 🛠 Tecnologias
 <div align="center">
